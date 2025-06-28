@@ -1,5 +1,5 @@
 # 2D Platformer Game Built with Unity
-![image](https://github.com/user-attachments/assets/6d634fdf-8338-4334-b51b-16271aee6963)
+[center]![image](https://github.com/user-attachments/assets/6d634fdf-8338-4334-b51b-16271aee6963)
 
 According to the game scenario, the player must survive in a dangerous world full of enemies and reach the end of the level within a certain time. The player's goal is to score by destroying the enemies he encounters, escape from deadly traps and reach the exit point at the end of the level in a limited time. There are three different levels in the game, each of which tests the player's skills with increasing difficulty and different enemy structures. The player has three lives and each mistake reduces one of these lives. At the same time, the counter starts counting when the level starts; if the level is not completed before the time runs out, the player is directed to the "Game Over" screen. Each enemy killed earns +10 points and this score is displayed instantly on the screen. The character under the player's control can shoot, jump and move. Additionally, health boosting items and a checkpoint system are integrated into the game.
 
